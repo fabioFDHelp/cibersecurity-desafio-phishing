@@ -16,3 +16,5 @@ Obtendo o endereço da máquina: ifconfig
 URL para clone: http://www.facebook.com
 
 
+
+![print_for_phishing](https://github.com/user-attachments/assets/1207aad4-c255-4493-b544-3d34fcd91fdd)
